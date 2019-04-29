@@ -2,7 +2,7 @@
 Laravel Routes made cooler and better
 
 
-What you can do to your route are
+What you can do to your routes are
 
 
 
